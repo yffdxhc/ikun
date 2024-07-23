@@ -12,7 +12,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * @author G
+ * @author Ghhhhh
  * @date 2024/7/22 15:51
  */
 public class StudentDAOImpl implements StudentDAO {
